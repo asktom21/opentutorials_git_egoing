@@ -1,5 +1,8 @@
 <html>
 <head>
-수업예제
+Lecture Sample
 </head>
+<body>
+This is a Lecture Sample.
+</body>
 </html>
